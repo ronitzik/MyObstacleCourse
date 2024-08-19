@@ -18,3 +18,8 @@ Use the controls to navigate the player character through the course.
 Avoid colliding with obstacles to maintain your speed and reach the finish line as quickly as possible.
 
 The number of collisions is tracked and displayed in the console for debugging purposes.
+
+
+![image](https://github.com/user-attachments/assets/78b5cf9d-f772-4bdf-b5df-5d1f1bd21ee3)
+
+
