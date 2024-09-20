@@ -3,7 +3,7 @@ This repository contains the Unity project for an Obstacle Course game I develop
 
 
 ## Game Overview
-The Obstacle Course is a 3D game where the player must maneuver through a series of walls, ramps, spinners, and other obstacles to reach the finish line. The course is designed to be progressively more challenging, requiring control and quick reflexes to avoid hitting obstacles.
+The Obstacle Course is a 3D game where the player must maneuver through a series of walls, ramps, spinners, and other obstacles to reach the finish line. The game is designed to be progressively more challenging, requiring control and quick reflexes to avoid hitting obstacles.
 
 ### Key Features:
 Diverse Obstacles: The course includes various types of obstacles such as walls, ramps, spinners, and droppers that players must navigate around or over.
